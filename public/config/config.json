@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nsbc721test",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nsbc721test-v2",
   "SHOW_BACKGROUND": true
 }
